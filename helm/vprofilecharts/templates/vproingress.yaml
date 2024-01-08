@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.thehkh.com
+  - host: ae71f0c6c3d1e4bddb958d3526607b20-4c8d8da072496b5a.elb.us-east-1.amazonaws.com
     http:
       paths:
       - path: /
